@@ -42,6 +42,8 @@ public class LoginPage  {
         element = driver.findElement(By.xpath("#mobile-navbar-search > ul > li > ul > li:nth-child(8) > a"));
         element.click();
  //       return element;
+
+        //Okay your mixing up hompage and loginpage and their respective uses (how they should be used.
     }
 }
 
